@@ -1,5 +1,7 @@
 # YLE Areena downloader GUI #
 
+***NOTE: I am no longer maintaining this program. One alternative program can be found [here](https://github.com/nikop/stream-downloader).***
+
 http://mpartel.github.com/yle-downloader-gui/
 
 This is a GUI for [yle-dl](http://aajanki.github.com/yle-dl/index.html), a modified rtmpdump program by Antti Ajanki for downloading clips from [YLE Areena](http://areena.yle.fi/).
